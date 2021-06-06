@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "149903773497",
+    "project_id": "swatching-3bf90",
+    "storage_bucket": "swatching-3bf90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149903773497:android:74b2e63682a521598122e8",
+        "android_client_info": {
+          "package_name": "com.lemonSherbet.swatching"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149903773497-99raqo7suf0ocas47l8beq70aac95u12.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lemonSherbet.swatching",
+            "certificate_hash": "cbb80cf09fcdb4ab779db49b4a84662205bc739b"
+          }
+        },
+        {
+          "client_id": "149903773497-b67mm9utn29oeg8duj7rohcr6okn0ean.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfPRpZ11fnATqfxdZWEwqeAFDrhqqiPKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149903773497-b67mm9utn29oeg8duj7rohcr6okn0ean.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
